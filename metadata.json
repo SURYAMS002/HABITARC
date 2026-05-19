@@ -1,0 +1,6 @@
+{
+  "name": "HabitArc - Esthetic Ledger",
+  "description": "An interactive, premium classic-serif habit journal featuring structured page binders to track Daily Life Tasks (college, friends) and Non-Negotiable Wellness Baselines (gym, meditation) with an AI Gemini Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
